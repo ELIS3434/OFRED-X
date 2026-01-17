@@ -16,6 +16,8 @@ A comprehensive anti-bot system that combines **Machine Learning-based bot detec
 ---
 
 https://i.imgur.com/t35lVET.gif
+<img width="162" height="112" alt="image" src="https://github.com/user-attachments/assets/354faa2d-c453-4528-b6dc-83f865a7a451" />
+
 
 ## ✨ Features
 

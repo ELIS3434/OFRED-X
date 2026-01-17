@@ -1,0 +1,7 @@
+{
+  "friendly": {"temperature": 0.85, "tone": "casual and warm"},
+  "professional": {"temperature": 0.7, "tone": "formal and helpful"},
+  "casual": {"temperature": 0.9, "tone": "super relaxed"},
+  "humorous": {"temperature": 0.95, "tone": "funny and witty"},
+  "sympathetic": {"temperature": 0.8, "tone": "empathetic"}
+}

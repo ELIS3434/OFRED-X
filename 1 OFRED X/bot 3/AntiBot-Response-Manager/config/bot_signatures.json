@@ -1,0 +1,11 @@
+{
+  "rapid_fire": {"min_msgs": 5, "time_window": 10, "weight": 0.25},
+  "repetitive": {"pattern_threshold": 0.7, "weight": 0.20},
+  "generic_responses": {
+    "keywords": ["check out my profile", "subscribe now", "link in bio", "follow for more"],
+    "weight": 0.15
+  },
+  "unusual_caps": {"ratio_threshold": 0.4, "weight": 0.15},
+  "emoji_spam": {"threshold": 0.3, "weight": 0.10},
+  "url_bomber": {"url_threshold": 3, "weight": 0.10}
+}

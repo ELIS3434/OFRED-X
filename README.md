@@ -14,8 +14,7 @@ ANTI-BOT RESPONSE pro ONLYFANS REDDIT
 A comprehensive anti-bot system that combines **Machine Learning-based bot detection** with **AI-powered response generation** for managing messages on Reddit and OnlyFans platforms. Features an intuitive GUI, 8-layer bot detection engine, and multiple response generation modes.
 
 ---
-[
-[<blockquote class="imgur-embed-pub" lang="en" data-id="a/12glCXE" data-context="false" ><a href="//imgur.com/a/12glCXE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://imgur.com/a/12glCXE#t35lVET.gif)](https://s7.ezgif.com/tmp/ezgif-79a66ecd9f6523d7.gif)
+https://s7.ezgif.com/tmp/ezgif-79a66ecd9f6523d7.gif
 
 
 ## ✨ Features

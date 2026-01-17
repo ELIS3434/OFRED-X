@@ -15,7 +15,7 @@ A comprehensive anti-bot system that combines **Machine Learning-based bot detec
 
 ---
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/12glCXE" data-context="false" ><a href="//imgur.com/a/12glCXE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[<blockquote class="imgur-embed-pub" lang="en" data-id="a/12glCXE" data-context="false" ><a href="//imgur.com/a/12glCXE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://imgur.com/a/12glCXE#t35lVET.gif)
 
 
 ## ✨ Features

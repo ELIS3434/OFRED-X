@@ -15,6 +15,8 @@ A comprehensive anti-bot system that combines **Machine Learning-based bot detec
 
 ---
 
+https://i.imgur.com/t35lVET.gif
+
 ## ✨ Features
 
 ### 🤖 **8-Layer Bot Detection Engine**
